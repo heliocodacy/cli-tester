@@ -27,6 +27,6 @@ public class Test {
     }else{
     System.out.println("just to let you know that the number is odd");
     }
-     return fibonacci(number - 1) + fibonacci(number - 2);
+     return fibonacci2(number - 1) + fibonacci2(number - 2);
  }
 }
